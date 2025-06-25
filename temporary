@@ -1,0 +1,14 @@
+API_KEY: da56fdb7324ee232e0f678f5
+
+list of concept learned/touched
+    
+    Bellman_Ford algorithm
+    Graph Theory
+    JSON
+
+
+changes made:
+    single request vs parallel request
+    took out some currencies because of heightened volatility
+    from matrix to graph theory and Bellman-Ford algo
+    
